@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Cartography (3.0.1)
+  - DZNEmptyDataSet (1.8.1)
+  - Gemini (1.2.0)
+  - Kingfisher (4.6.2)
+  - NVActivityIndicatorView (4.1.1):
+    - NVActivityIndicatorView/Presenter (= 4.1.1)
+  - NVActivityIndicatorView/Presenter (4.1.1)
+  - ObjectMapper (3.1.0)
+  - ParallaxHeader (2.0.0)
+  - PeekView (1.1.2)
+  - PinterestLayout (1.0.3)
+  - SHSearchBar (1.4.1)
+  - SwiftyShadow (1.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cartography
+  - DZNEmptyDataSet
+  - Gemini
+  - Kingfisher
+  - NVActivityIndicatorView
+  - ObjectMapper
+  - ParallaxHeader
+  - PeekView
+  - PinterestLayout
+  - SHSearchBar
+  - SwiftyShadow
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Cartography: f8c899bb0f5cf20758644a8eea59a75e98a03a5d
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Gemini: acff98012273066f1b83c887731260abfaf18ec5
+  Kingfisher: 55b9c395bf8d3949676ad3861111923990ab68cf
+  NVActivityIndicatorView: 60109b9bf46efc2e71ab81453196ccdfdfeea870
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  ParallaxHeader: fb6ee97915626454f3c029a97b424f79a777c642
+  PeekView: e57d7e6abfc1411826a750eadd850c06198f91a9
+  PinterestLayout: f1c7ec0254ffa842d69f1b43e4436c8ded4359b9
+  SHSearchBar: 1e0cd12f142dc6b902c54fbd026c9a25945c3041
+  SwiftyShadow: bb5f62c7ec3afa7b2fc1d8a1f5544eea0cee64c4
+
+PODFILE CHECKSUM: 97be461db404f9cfd38f3f0a09d095290b84923b
+
+COCOAPODS: 1.4.0

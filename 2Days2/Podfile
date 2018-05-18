@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'DemoGemini' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+# Pods for DemoGemini
+pod 'Gemini'
+pod 'Cartography'
+pod 'ParallaxHeader'
+pod 'SwiftyShadow'
+pod 'PeekView'
+pod 'PinterestLayout'
+pod 'Alamofire'
+pod 'ObjectMapper'
+pod 'Kingfisher'
+pod 'NVActivityIndicatorView'
+pod 'SHSearchBar'
+pod 'DZNEmptyDataSet'
+target 'DemoGeminiTests' do
+    inherit! :search_paths
+    # Pods for testing
+end
+
+  target 'DemoGeminiUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
